@@ -6,5 +6,6 @@ Spring boot Backend Demo Project
 <li>Spring Initializr</li>
 <li>Spring boot      : 2.7.16 </li>
 <li>PostgreSQL</li>
+<li>JDK : 11</li>
   
 </ul>
